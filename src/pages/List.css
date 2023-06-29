@@ -1,0 +1,7 @@
+ion-card ion-item {
+  --background: rgb(9, 176, 137);
+}
+
+ion-card ion-item:hover {
+  --background: rgb(228, 168, 94);
+}

@@ -1,0 +1,17 @@
+.swiper {
+  height: 100vh;
+}
+.swiper-slide ion-button {
+  min-width: 25%;
+}
+.swiper-slide img {
+  height: 40vh;
+  margin-bottom: 40px;
+}
+
+.swiper-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
